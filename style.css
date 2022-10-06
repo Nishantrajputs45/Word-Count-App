@@ -24,6 +24,7 @@ h1 {
 textarea {
   width: 500px;
   outline: none;
+  font-size: 25px;
 }
 #output {
   margin-left: 20px;
